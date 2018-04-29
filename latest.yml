@@ -1,9 +1,9 @@
 version: 0.1.0
 files:
   - url: agony-setup-0.1.0.exe
-    sha512: kCN0+lChmtUhq7BoAZSbxUsDXYruzK1Qw1oVR3cwgvaR2IA8MkLGe4DvDiS/8RFVO//zQfOiI7nWS0+YllC7oA==
-    size: 49702358
+    sha512: l8a0ya2Psyv32oq677iQ+FfOrL0HNbb5snF33YuNTsFSBbB4z5nPs/VJJlYYcV94sJP5z/RLK1kFAiOoDSBVyg==
+    size: 50881984
 path: agony-setup-0.1.0.exe
-sha512: kCN0+lChmtUhq7BoAZSbxUsDXYruzK1Qw1oVR3cwgvaR2IA8MkLGe4DvDiS/8RFVO//zQfOiI7nWS0+YllC7oA==
-sha2: 90e9c6a26a9bbdccf0c1956a5338381b4d6175449a36b58ac9a337b7796b46db
-releaseDate: '2018-04-29T16:58:18.969Z'
+sha512: l8a0ya2Psyv32oq677iQ+FfOrL0HNbb5snF33YuNTsFSBbB4z5nPs/VJJlYYcV94sJP5z/RLK1kFAiOoDSBVyg==
+sha2: 844628cee7cc18143911d65ffa5a0c5158a55f15d22508123701ed9c152222e1
+releaseDate: '2018-04-29T17:11:04.874Z'
